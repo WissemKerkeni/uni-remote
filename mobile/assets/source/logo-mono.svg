@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Android themed-icon layer: solid white silhouette, tinted by the OS. -->
+  <g transform="translate(512 512) scale(0.72) translate(-512 -512)">
+    <g fill="none" stroke="#ffffff" stroke-width="44" stroke-linecap="round">
+      <path d="M628.98 362.28 A190 190 0 0 1 628.98 661.72"/>
+      <path d="M395.02 362.28 A190 190 0 0 0 395.02 661.72"/>
+      <path d="M687.47 287.42 A285 285 0 0 1 687.47 736.58"/>
+      <path d="M336.53 287.42 A285 285 0 0 0 336.53 736.58"/>
+      <path d="M745.97 212.56 A380 380 0 0 1 745.97 811.44"/>
+      <path d="M278.03 212.56 A380 380 0 0 0 278.03 811.44"/>
+    </g>
+    <circle cx="512" cy="512" r="99" fill="#ffffff"/>
+  </g>
+</svg>

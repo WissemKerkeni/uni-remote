@@ -1,0 +1,41 @@
+# Each subproject also has its own .gitignore (firmware/, mobile/).
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Node / Expo (mobile also ignores these)
+node_modules/
+.expo/
+dist/
+web-build/
+*.tsbuildinfo
+
+# EAS / native build output
+android/
+ios/
+*.apk
+*.aab
+*.ipa
+
+# PlatformIO (firmware also ignores these)
+.pio/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets / local env
+.env
+.env.*
+!.env.example
+google-services.json
+GoogleService-Info.plist
+*.keystore
+*.jks
